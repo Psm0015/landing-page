@@ -1,4 +1,9 @@
-# LandingPage
+
+
+# LandingPage com Angular
+
+Desenvolvido na aula do youtube:
+https://www.youtube.com/watch?v=O26fDEnAukY
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
